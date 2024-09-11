@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624627160159",
+    "project_id": "fashionzone-3c3af",
+    "storage_bucket": "fashionzone-3c3af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624627160159:android:7a7079d50cb89f25ed77ea",
+        "android_client_info": {
+          "package_name": "com.example.fashionzone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbaCnPAO8wLq4f1ZZZwWUf_6ArGzw19jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
