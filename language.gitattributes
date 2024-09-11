@@ -1,0 +1,8 @@
+# Ignore build/ folder and its contents
+build/* linguist-vendored
+
+# Treat all Dart files as the main language
+*.dart linguist-language=Dart
+
+# Ignore generated files or vendor files
+*.min.js linguist-vendored
